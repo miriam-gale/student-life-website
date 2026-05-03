@@ -29,7 +29,6 @@ Instead of creating a random website, I chose to design something meaningful —
 ## 🛠️ Technologies Used
 
 - HTML 
-- CSS3  
 - Flexbox  
 - CSS  
 - Media Queries  
